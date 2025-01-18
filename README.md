@@ -1,4 +1,4 @@
-| [Home page](https://rutuja2197.github.io/rutuja-dataviz-portfolio/) | [Data Critiques](critique-by-design) | [Assignments/Discussions](final-project-part-one) | [Final project](final-project-part-two) | [Workshops](final-project-part-three) |
+| [Home page](https://rutuja2197.github.io/rutuja-dataviz-portfolio/) | [Data Critiques](critique-by-design) | [Assignments/Discussions](assignments) | [Final project](final-project-part-two) | [Workshops](final-project-part-three) |
 
 # About me
 Hi, I’m Rutuja (she/her)! I’m currently a student enrolled in Master of Information Systems Management at Carnegie Mellon University. My academic and professional journey is deeply rooted in solving complex business challenges, and I thrive in dynamic environments where I can apply my expertise in tools like MySQL, Tableau, Python, and Excel to create impactful, data-driven solutions. I’m passionate about collaborating on projects that challenge my problem-solving abilities and allow me to contribute to meaningful initiatives.
