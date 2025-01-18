@@ -27,8 +27,8 @@ I aim to build a strong foundation in designing compelling and effective data vi
 ## Workshops  
 - Workshop 1: [Workshop Title/Topic Placeholder]  
 
-## References
+# References
 
-## AI acknowledgements
+# AI acknowledgements
 
 
