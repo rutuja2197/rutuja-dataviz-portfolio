@@ -1,4 +1,4 @@
-| [Home page](https://rutuja2197.github.io/rutuja-dataviz-portfolio/) | [Data Critiques](critique-by-design) | [Assignments/Discussions](assignments) | [Final project](final-project-part-two) | [Workshops](final-project-part-three) |
+| [Home page](https://rutuja2197.github.io/rutuja-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # About me
 Hi, I’m Rutuja (she/her)! I’m currently a student enrolled in Master of Information Systems Management at Carnegie Mellon University. My academic and professional journey is deeply rooted in solving complex business challenges, and I thrive in dynamic environments where I can apply my expertise in tools like MySQL, Tableau, Python, and Excel to create impactful, data-driven solutions. I’m passionate about collaborating on projects that challenge my problem-solving abilities and allow me to contribute to meaningful initiatives.
@@ -15,17 +15,20 @@ I aim to build a strong foundation in designing compelling and effective data vi
 - Explore how typography and color choices influence the clarity and emotional impact of visualizations.
 
 # Portfolio
-1. Data Critiques  
-   - Critique 1: Good Charts Critique Method  
+## Data Critiques  
+- Critique 1: Good Charts Critique Method  
 
-2. Assignments/Discussions  
-   - Assignment 1: Controlling Color
+## Data Visualization  
+- Assignment 1: Controlling Color
 
-3. Project  
-   - Final Project: [Project Title Placeholder]  
+## Final Project: Part one 
+- Final Project: [Project Title Placeholder]  
 
-4. Workshops  
-   - Workshop 1: [Workshop Title/Topic Placeholder]  
+## Final Project: Part two 
+- Final Project: [Project Title Placeholder]
+
+## Final Project: Part three 
+- Final Project: [Project Title Placeholder] 
 
 # References
 
