@@ -1,4 +1,4 @@
-| [Home page](https://rutuja2197.github.io/rutuja-dataviz-portfolio/) | [Data Critiques](critique-by-design) | [Assignments/Discussions](final-project-part-one) | [Final project](final-project-part-two) | [Workshops](final-project-part-three) |
+| [Home page](https://rutuja2197.github.io/rutuja-dataviz-portfolio/) | [data viz examples](dataviz-examples.md) | [critique by design](critique-by-design.md) | [final project I](final-project-part-one.md) | [final project II](final-project-part-two.md) | [final project III](final-project-part-three.md) |
 
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
