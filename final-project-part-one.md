@@ -9,7 +9,20 @@ This project aims to:
 - Highlight the most common and harmful dark patterns.
 - Provide actionable steps for users to recognize and combat them.
 - Collect user-submitted examples to build a dataset of observed dark patterns.
-By making this information interactive and engaging, the project seeks to raise awareness and encourage ethical design practices. 
+By making this information interactive and engaging, the project seeks to raise awareness and encourage ethical design practices.
+
+## Goal, Target Audience & Call to Action
+### Goal Statement:
+As a general internet user, I want to understand how dark patterns in UX manipulate my actions, so that I can recognize and avoid deceptive designs that compromise my privacy and financial security.
+
+### Target Audience:
+General users, primarily 18-65 years old as they are the most active users of websites and apps, who are unaware of dark patterns.
+
+### Call to Action:
+I can do this by raising awareness about dark patterns, educating others on how to spot them, and contributing to a crowdsourced dataset of real-world dark pattern examples.
+
+### Future Action:
+The collected user-submitted data will help in building a dataset that can be analyzed further to understand emerging trends in deceptive UX design.
 
 ## Project Structure & Story Flow
 ### Introduction (Engagement Hook – Interactive Quiz)
