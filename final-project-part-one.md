@@ -50,7 +50,7 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 
 ## Initial sketches 
 
-<img src="Storyboard.png" width="200"/>  <img src="Layout.png" width="200"/> 
+<img src="Storyboard.png" width="500"/>      <img src="Layout.png" width="200"/> 
 
 # The data 
 I have collated a few datasets with different categories of dark patterns and their examples. Using this, I will create a few visualizations, such as a pie chart, to show which category is the most dominant.
