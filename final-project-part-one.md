@@ -64,9 +64,9 @@ I have collated a few datasets with different categories of dark patterns and th
 
 Further, from the references mentioned below, I have collated a few statistics, which I will include as a Key Statistic Highlight — a visually prominent number showcasing financial losses caused by dark patterns, followed by a brief explanatory text.
 
-> https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv
-> https://github.com/yamanalab/ec-darkpattern
-> https://zenodo.org/records/3601501
+- https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv
+- https://github.com/yamanalab/ec-darkpattern
+- https://zenodo.org/records/3601501
 
 # Method and medium
 For my final project, I will use a combination of **Excel, Tableau, and Shorthand** to create an interactive and engaging experience:  
