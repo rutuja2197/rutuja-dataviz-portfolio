@@ -52,11 +52,11 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 
 <div align="center">
   <img src="Storyboard.png" width="500">
-  <img src="Layout.png" width="200"/>
+  <img src="Layout.png" width="200">
 </div>
 
 <div align="center">
-  <p><em>Left: Storyboarding a user's journey on the page | Right: Layout</em></p>
+  <p><em>Left: Storyboarding a user's journey on the page | Right: Page Layout</em></p>
 </div>
 
 # The data 
