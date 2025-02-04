@@ -27,7 +27,7 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 ## Project Structure & Story Flow
 ### Introduction (Engagement Hook – Interactive Quiz)
 - A short, interactive quiz with 5 questions.
-- Users will be shown two images and asked to identify which one uses a dark pattern.
+- Users will be shown two images and asked to identify which one is deceptive (certain people might not be aware what dark patterns are, so would frame the questions accordingly).
 - The goal is to make users aware of how easily they can be deceived.
 ### Section 1: Understanding Dark Patterns
 - Definition of dark patterns in UX.
@@ -35,25 +35,27 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 - Real-world examples from popular websites/apps.
 ### Section 2: Impact of Dark Patterns
 - Statistics on how dark patterns affect users (privacy breaches, financial loss, etc.).
-- Research-backed insights on user deception.
 ### Section 3: Types of Dark Patterns
 - Breakdown of various types of dark patterns (e.g., Forced Continuity, Roach Motel, Hidden Costs).
 - Brief explanation of each with visuals and real-world applications.
-### Section 4: Combating Dark Patterns
+### Section 4: Data Visualizations
+- Research-backed insights on user deception.
+### Section 5: Combating Dark Patterns
 - Ethical design principles and best practices.
 - Steps users can take to identify and avoid dark patterns.
 - Role of regulations (e.g., GDPR, FTC guidelines) in reducing dark patterns.
-### Section 5: User Contribution – Building a Dataset
+### Section 6: User Contribution – Building a Dataset
 - A form allowing users to submit dark patterns they have encountered.
 - Data collection to create a repository of deceptive UX practices. 
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Initial sketches 
 
-Text here...
+![Screenshot 2025-02-04 153155](https://github.com/user-attachments/assets/1c0ca2ef-9359-4812-9fd6-d8da0515dfcd)
+
+![Screenshot 2025-02-04 153141](https://github.com/user-attachments/assets/db4c8cf4-1120-4c19-88b6-8d09cc7a335f)
 
 # The data 
-I have a few datasets with different categories of dark patterns and their examples. Using this, I will create a few visualizations, such as a pie chart, to show which category is the most dominant.
+I have collated a few datasets with different categories of dark patterns and their examples. Using this, I will create a few visualizations, such as a pie chart, to show which category is the most dominant.
 
 Further, from the references mentioned below, I have collated a few statistics, which I will include as a Key Statistic Highlight — a visually prominent number showcasing financial losses caused by dark patterns, followed by a brief explanatory text.
 
