@@ -22,7 +22,7 @@ General users, primarily 18-65 years old as they are the most active users of we
 I can do this by raising awareness about dark patterns, educating others on how to spot them, and contributing to a crowdsourced dataset of real-world dark pattern examples.
 
 ### Future Action:
-The collected user-submitted data will help in building a dataset that can be analyzed further to understand emerging trends in deceptive UX design.
+Once I collect enough data from users, I will analyze and showcase the findings which will allow users to see real-world examples of dark patterns submitted by others, recognize emerging trends, and better understand how deceptive design practices impact them.
 
 ## Project Structure & Story Flow
 ### Introduction (Engagement Hook – Interactive Quiz)
@@ -36,7 +36,6 @@ The collected user-submitted data will help in building a dataset that can be an
 ### Section 2: Impact of Dark Patterns
 - Statistics on how dark patterns affect users (privacy breaches, financial loss, etc.).
 - Research-backed insights on user deception.
-- Examples of the most common dark patterns with explanations.
 ### Section 3: Types of Dark Patterns
 - Breakdown of various types of dark patterns (e.g., Forced Continuity, Roach Motel, Hidden Costs).
 - Brief explanation of each with visuals and real-world applications.
@@ -53,25 +52,19 @@ The collected user-submitted data will help in building a dataset that can be an
 
 Text here...
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+# The data 
+I have a few datasets with different categories of dark patterns and their examples. Using this, I will create a few visualizations, such as a pie chart, to show which category is the most dominant.
 
-Text here...
+Further, from the references mentioned below, I have collated a few statistics, which I will include as a Key Statistic Highlight — a visually prominent number showcasing financial losses caused by dark patterns, followed by a brief explanatory text.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+> https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv
+> https://github.com/yamanalab/ec-darkpattern
+> https://zenodo.org/records/3601501
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
 For my final project, I will use a combination of **Excel, Tableau, and Shorthand** to create an interactive and engaging experience:  
 
-- **Excel**: I will manipulate and clean the dataset, including any collected user-submitted data on dark patterns.  
+- **Excel**: I will manipulate the dataset on dark patterns using Excel.  
 - **Tableau**: I will create visualizations to illustrate statistics on dark patterns, their impact, and common types. These visualizations will be published on Tableau Public and embedded into the project.  
 - **Shorthand**: I will use Shorthand to design the final interactive story, incorporating text, images, quizzes, and embedded Tableau visualizations to guide the user through the narrative.  
 
@@ -79,6 +72,13 @@ This approach ensures a data-driven, visually engaging, and interactive experien
 
 ## References
 - https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/deceptive-dark-patterns-explainer
+- https://trustarc.com/wp-content/uploads/2024/02/Deceptive-Patterns-Consent-Privacy-Infographic.png
+- https://verasafe.com/blog/dark-patterns-how-to-detect-and-avoid-them/
+- https://link.springer.com/chapter/10.1007/978-3-031-28643-8_9#Sec7
+- https://therecord.media/ftc-audit-finds-dark-patterns-global
+- https://webtransparency.cs.princeton.edu/dark-patterns/
+- https://www.cxtoday.com/voice-of-the-customer/dark-patterns-deceiving-customers-and-eroding-trust/
+- https://dovetail.com/product-development/new-research-finds-online-consumers-are-falling-victim-to-dark-patterns/
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+
