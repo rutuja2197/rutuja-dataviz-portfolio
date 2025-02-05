@@ -60,10 +60,27 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 </div>
 
 # The data 
-I have collated a few datasets with different categories of dark patterns and their examples. Using this, I will create a few visualizations, such as a pie chart, to show which category is the most dominant.
+I have collated a few datasets with different categories of dark patterns and their examples along with a few research papers which highlight statistical analysis of dark patterns. I will be utilizing these as below-
 
-Further, from the references mentioned below, I have collated a few statistics, which I will include as a Key Statistic Highlight — a visually prominent number showcasing financial losses caused by dark patterns, followed by a brief explanatory text.
+### Pre-collected Dataset on Dark Patterns: <br>
+These datasets contain categorized examples of various dark patterns observed in digital interfaces. Each entry includes:
+  - Category of Dark Pattern (e.g., Sneak into Basket, Forced Continuity, Roach Motel, etc.).
+  - Example websites/apps where these patterns have been identified.
 
+This dataset will be used to create a pie chart in Tableau, visualizing the most dominant dark pattern categories based on frequency.
+
+### Statistics from Published Research & Reports: <br>
+I have gathered key statistics from various studies and consumer reports highlighting the financial and privacy impact of dark patterns. One key metric I will highlight is the financial losses caused by deceptive practices, presented in a visually prominent format. These statistics will be used to support the narrative and demonstrate the real-world consequences of dark patterns.
+
+### User-Submitted Dark Pattern Reports (Future Dataset):<br>
+A form will be embedded on the project page, allowing users to submit dark patterns they’ve encountered on websites and apps. The collected submissions will include:
+  - Website/App Name
+  - Dark Pattern Type
+  - Description of the deceptive practice
+ 
+Over time, this will help create a user-generated dataset that can be analyzed and visualized in future updates of the project.
+
+Below are the 3 pre-collected datasets that I will be referring to -
 - https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv
 - https://github.com/yamanalab/ec-darkpattern
 - https://zenodo.org/records/3601501
