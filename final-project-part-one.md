@@ -59,8 +59,8 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 </div>
 
 <div align="center">
-  <p><em>Left: Storyboarding a user's journey on the page
-</div>  
+  <p><em>Storyboarding a user's journey on the page</em></p>
+</div>
     
 <div align="center">
   <img src="Page sketches.png" width="500">
