@@ -9,11 +9,12 @@ This project aims to:
 - Highlight the most common and harmful dark patterns.
 - Provide actionable steps for users to recognize and combat them.
 - Collect user-submitted examples to build a dataset of observed dark patterns.
+
 By making this information interactive and engaging, the project seeks to raise awareness and encourage ethical design practices.
 
 ## Goal, Target Audience & Call to Action
 ### Goal Statement:
-As a general internet user, I want to understand how dark patterns in UX manipulate my actions, so that I can recognize and avoid deceptive designs that compromise my privacy and financial security.
+As a general internet user, I want to understand how dark patterns in UX manipulate my actions, so that I can recognize and avoid deceptive designs that compromise my privacy and security.
 
 ### Target Audience:
 General users, primarily 18-65 years old as they are the most active users of websites and apps, who are unaware of dark patterns.
@@ -65,7 +66,7 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 # The data 
 I have collated a few datasets with different categories of dark patterns and their examples along with a few research papers which highlight statistical analysis of dark patterns. I will be utilizing these as below-
 
-### Pre-collected Dataset on Dark Patterns: <br>
+### Pre-collected Dataset on Dark Patterns:
 These datasets provide categorized examples of dark patterns observed in digital interfaces. Each dataset offers unique insights into how deceptive design tactics are implemented across different platforms.
 
 - Dark Pattern Classifications Dataset [(Kaggle)](https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv)
@@ -82,10 +83,10 @@ These datasets provide categorized examples of dark patterns observed in digital
 
 These datasets will be used to create Tableau visualizations, highlighting key metrics such as the most frequently observed dark pattern categories and their distribution across industries and act as a starting point for my analysis. To ensure a comprehensive and well-rounded perspective, I am actively researching additional datasets that cover a wider range of demographics. This will help strengthen the depth and accuracy of my findings.
 
-### Statistics from Published Research & Reports: <br>
+### Statistics from Published Research & Reports:
 I have gathered key statistics from various studies and consumer reports highlighting the financial and privacy impact of dark patterns. One key metric I will highlight is the financial losses caused by deceptive practices, presented in a visually prominent format. These statistics will be used to support the narrative and demonstrate the real-world consequences of dark patterns.
 
-### User-Submitted Dark Pattern Reports (Future Dataset):<br>
+### User-Submitted Dark Pattern Reports (Future Dataset):
 A form will be embedded on the project page, allowing users to submit dark patterns they’ve encountered on websites and apps. The collected submissions will include:
   - Website/App Name
   - Dark Pattern Type
