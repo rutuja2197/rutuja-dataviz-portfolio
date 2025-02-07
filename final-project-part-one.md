@@ -81,9 +81,9 @@ A form will be embedded on the project page, allowing users to submit dark patte
 Over time, this will help create a user-generated dataset that can be analyzed and visualized in future updates of the project.
 
 Below are the 3 pre-collected datasets that I will be referring to -
-- <a href = "https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv"> Kaggle Dataset </a>
-- <a href = "https://github.com/yamanalab/ec-darkpattern"> Github Dataset </a>
-- <a href = "https://zenodo.org/records/3601501"> Additional Research </a>
+- [Kaggle Dataset](https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv)
+- [Github Dataset](https://github.com/yamanalab/ec-darkpattern)
+- [Additional Research](https://zenodo.org/records/3601501)
 
 # Method and medium
 For my final project, I will use a combination of **Excel, Tableau, and Shorthand** to create an interactive and engaging experience:  
