@@ -56,12 +56,15 @@ Once I collect enough data from users, I will analyze and showcase the findings 
 
 <div align="center">
   <img src="Storyboard.png" width="500">
+  <img src="Page sketches.png" width="500">
   <img src="Layout.png" width="200">
 </div>
 
 <div align="center">
-  <p><em>Left: Storyboarding a user's journey on the page | Right: Page Layout</em></p>
+  <p><em>Left: Storyboarding a user's journey on the page | Middle: Page sketches | Right: Page Layout</em></p>
 </div>
+
+Note: The data visualizations in Section 4 are conceptual placeholders based on initial ideas for depicting the data. These are not final and may be adjusted if alternative visualizations prove to be more effective in representing the insights accurately.
 
 # The data 
 I have collated a few datasets with different categories of dark patterns and their examples along with a few research papers which highlight statistical analysis of dark patterns. I will be utilizing these as below-
@@ -104,11 +107,10 @@ For my final project, I will use a combination of **Excel, Tableau, and Shorthan
 This approach ensures a data-driven, visually engaging, and interactive experience that effectively communicates the impact of dark patterns in UX.
 
 ## References
-- [Gupta C. How website dark patterns can cost you | CHOICE. CHOICE. Published August 29, 2024. Accessed February 7, 2025. https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/deceptive-dark-patterns-explainer] (https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/deceptive-dark-patterns-explainer)
-- (https://trustarc.com/wp-content/uploads/2024/02/Deceptive-Patterns-Consent-Privacy-Infographic.png)
-- [Chvatal M. Dark Patterns: How To Detect and Avoid Them. VeraSafe. Published January 18, 2024. Accessed February 7, 2025. https://verasafe.com/blog/dark-patterns-how-to-detect-and-avoid-them/] (https://verasafe.com/blog/dark-patterns-how-to-detect-and-avoid-them/)
-- [Agnieszka Kitkowska. The Hows and Whys of Dark Patterns: Categorizations and Privacy. Springer eBooks. Published online January 1, 2023:173-198. doi:https://doi.org/10.1007/978-3-031-28643-8_9] (https://link.springer.com/chapter/10.1007/978-3-031-28643-8_9#Sec7)
-- [FTC audit of websites and apps finds three-fourths use dark patterns to trick consumers. Therecord.media. Published 2024. Accessed February 7, 2025. https://therecord.media/ftc-audit-finds-dark-patterns-global] (https://therecord.media/ftc-audit-finds-dark-patterns-global)
+- [Gupta C. How website dark patterns can cost you | CHOICE. CHOICE. Published August 29, 2024. Accessed February 7, 2025. https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/deceptive-dark-patterns-explainer](https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/deceptive-dark-patterns-explainer)
+- [Chvatal M. Dark Patterns: How To Detect and Avoid Them. VeraSafe. Published January 18, 2024. Accessed February 7, 2025. https://verasafe.com/blog/dark-patterns-how-to-detect-and-avoid-them/](https://verasafe.com/blog/dark-patterns-how-to-detect-and-avoid-them/)
+- [Agnieszka Kitkowska. The Hows and Whys of Dark Patterns: Categorizations and Privacy. Springer eBooks. Published online January 1, 2023:173-198. doi:https://doi.org/10.1007/978-3-031-28643-8_9](https://link.springer.com/chapter/10.1007/978-3-031-28643-8_9#Sec7)
+- [FTC audit of websites and apps finds three-fourths use dark patterns to trick consumers. Therecord.media. Published 2024. Accessed February 7, 2025. https://therecord.media/ftc-audit-finds-dark-patterns-global](https://therecord.media/ftc-audit-finds-dark-patterns-global)
 - [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. Princeton.edu. Published 2019. Accessed February 7, 2025. https://webtransparency.cs.princeton.edu/dark-patterns/](https://webtransparency.cs.princeton.edu/dark-patterns/)
 - [Caldwell S. Dark Patterns: Deceiving Customers and Eroding Trust. CX Today. Published January 4, 2024. Accessed February 7, 2025. https://www.cxtoday.com/voice-of-the-customer/dark-patterns-deceiving-customers-and-eroding-trust/](https://www.cxtoday.com/voice-of-the-customer/dark-patterns-deceiving-customers-and-eroding-trust/)
 - [Dovetail. New Research Finds Online Consumers Are Falling Victim to Dark Patterns. Dovetail.com. Published December 14, 2023. Accessed February 7, 2025. https://dovetail.com/product-development/new-research-finds-online-consumers-are-falling-victim-to-dark-patterns/](https://dovetail.com/product-development/new-research-finds-online-consumers-are-falling-victim-to-dark-patterns/)
