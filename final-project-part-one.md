@@ -81,7 +81,7 @@ A form will be embedded on the project page, allowing users to submit dark patte
 Over time, this will help create a user-generated dataset that can be analyzed and visualized in future updates of the project.
 
 Below are the 3 pre-collected datasets that I will be referring to -
-- [Kaggle Dataset](https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv)
+- (https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv)
 - [Github Dataset](https://github.com/yamanalab/ec-darkpattern)
 - [Additional Research](https://zenodo.org/records/3601501)
 
