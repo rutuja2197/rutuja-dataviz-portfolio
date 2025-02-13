@@ -26,36 +26,31 @@ For improvement, I recommend using a bar graph to display the top 20 and bottom 
 
 ## Step three: Sketch a solution
 
+
+
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+The focus was to understand how the visual works for different viewers and what changes could be made to improve clarity, usefulness, and engagement. I asked the participants to evaluate both the charts separately and together to see if any patterns or insights emerged.<br>
 
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
+### Questions to ask:
 
 - Can you describe to me what this is telling you?
-
+- Who do you think this is intended for?
 - Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
 - Is there anything you would change or do differently?
+- Overall, do you find this easy to read?
 
-Results: 
+These were the main questions I aimed to target, and I asked them for both the charts separately and together.
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+### Results:
+- Can you describe to me what this is telling you?: Both interviewees found the visualization easy to understand for both charts. One suggestion was to group certain factors together to avoid making the table too large.
+- Who do you think this is intended for?: While splitting the chart into two made it clearer, one interviewee still felt the visualization was more suited for animal activists. A suggestion was made to adjust the title of the first graph to better target pet owners or insurance seekers.
+- Is there anything you find surprising or confusing? : The factors listed in the table were found confusing by both interviewees. There was a general sense of uncertainty about the metrics used for ranking countries.
+- Is there anything you would change or do differently? : There were suggestions to show only the top 10 and bottom 10 countries instead of 20, to make the chart more concise. Another recommendation was to use gradient colors to represent the grades assigned to each country for better clarity.
+- Overall, do you find this easy to read?: Both interviewees agreed that the revised version was easier to read compared to the original visualization. They appreciated the use of the heatmap and the division into two parts, which helped with readability.
 
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+### What I learned:
+The feedback highlighted a few key areas for improvement in my redesign. Grouping related factors together could help reduce the table's size, making it easier for viewers to interpret the data. The suggestion to use gradient colors aligns with the need for clearer visual cues that indicate the severity of scores. Additionally, adjusting the title to better target the right audience could increase engagement, especially among pet owners or insurance seekers rather than animal activists. The feedback on confusion regarding the factors also points to the need for clearer explanations or a key that ties the factors to the rankings in a more intuitive way.
 
 ## Step five: build the solution
 
