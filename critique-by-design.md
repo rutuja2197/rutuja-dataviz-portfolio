@@ -57,12 +57,12 @@ The feedback highlighted key areas for improvement in my redesign. Grouping rela
 
 ## Step five: build the solution
 
-For my final redesign of the Animal Rights Index visualization, I focused on simplifying the layout to enhance readability and clarity while keeping only the most relevant data. Based on user feedback, I made the following changes:
+For my final redesign of the Animal Rights Index visualization, I focused on simplifying my previous layout to enhance readability and clarity while keeping only the most relevant data. Based on user feedback, I made the following changes:
 
-- <b>Kept only the top 10 and bottom 10 countries:</b> Instead of displaying a long table with all countries, I split the rankings into two sections—one for the top 10 and another for the bottom 10 countries based on the Animal Rights Index. This change made the data easier to digest and helped viewers focus on the most relevant rankings without feeling overwhelmed. I also refined the chart titles to better suit the target audience.
+- <b>Kept only the top 10 and bottom 10 countries:</b> Instead of displaying a list of 20 countries, I included only the top 10 and the bottom 10 countries based on the Animal Rights Index. This change made the further easy to read. I also refined the chart titles to better suit the target audience.
 - <b>Removed the heatmap:</b> Feedback indicated that the visualization still felt geared toward animal activists and had too much information. To shift the focus, I replaced the heatmap with a simpler text display, showing only the relevant factors for pet parents alongside the selected country's rank and index score. I also added a filter, allowing users to select any country and view its key metrics in a straightforward format. This approach eliminated the need for a complex table, making it easier to interpret the data at a glance.
 - <b>Removed the grades:</b> Since there was no clear explanation of how the grades were calculated, they contributed more to confusion than clarity. Removing them streamlined the visualization and kept the focus on meaningful insights.
-- <b>Simplified titles:</b> Based on feedback, I revised the titles — not just for the charts but for the entire dashboard—to better align with the intended audience. This ensured the visualization was more relevant to pet owners and others seeking practical insights rather than animal rights activism.
+- <b>Simplified titles:</b> Based on feedback, I revised the titles — not just for the charts but for the entire dashboard—to better align with the intended audience. This ensured the visualization was more relevant to pet parents and others seeking practical insights rather than animal rights activism.
 
 ### Process Summary: 
 Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience. The critique was also a great way to realize that what you think might not always align with what others perceive, highlighting the value of gathering diverse feedback to refine your work.
