@@ -65,7 +65,7 @@ For my final redesign of the Animal Rights Index visualization, I focused on sim
 - <b>Simplified titles:</b> Based on feedback, I revised the titles — not just for the charts but for the entire dashboard—to better align with the intended audience. This ensured the visualization was more relevant to pet owners and others seeking practical insights rather than animal rights activism.
 
 ### Process Summary: 
-Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience.
+Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience. The critique was also a great way to realize that what you think might not always align with what others perceive, highlighting the value of gathering diverse feedback to refine your work.
 
 ### Final Redesign: 
 Below is the final redesigned version of the Animal Rights Index visualization:
@@ -75,6 +75,7 @@ Below is the final redesigned version of the Animal Rights Index visualization:
 </div>
 
 ### Original Design:
+Below is the original version of the Animal Rights Index visualization:
 
 <div align="center">
   <img src="Original Design.png" width="700" alt="Courtesy: The Swiftest">
