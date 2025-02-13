@@ -46,54 +46,40 @@ The focus was to understand how the visual works for different viewers and what 
 These were the main questions I aimed to target, and I asked them for both the charts separately and together.
 
 ### Results:
-- <b>Can you describe to me what this is telling you?:</b> Both interviewees found the visualization easy to understand for both charts. One suggestion was to group certain factors together to avoid making the table too large.
-- <b>Who do you think this is intended for?:</b> While splitting the chart into two made it clearer, one interviewee still felt the visualization was more suited for animal activists. A suggestion was made to adjust the title of the first graph to better target pet owners or insurance seekers.
-- <b>Is there anything you find surprising or confusing?:</b> The factors listed in the table were found confusing by both interviewees. There was a general sense of uncertainty about the metrics used for ranking countries.
-- <b>Is there anything you would change or do differently?:</b> There were suggestions to show only the top 10 and bottom 10 countries instead of 20, to make the chart more concise. Another recommendation was to use gradient colors to represent the grades assigned to each country for better clarity.
-- <b>Overall, do you find this easy to read?:</b> Both interviewees agreed that the revised version was easier to read compared to the original visualization. They appreciated the use of the heatmap and the division into two parts, which helped with readability.
+- <b>Can you describe to me what this is telling you?:</b> Everyone found the visualization easy to understand for both charts. One suggestion was to group certain factors together to avoid making the table too large.
+- <b>Who do you think this is intended for?:</b> While splitting the chart into two made it clearer, everyone still felt the visualization was more suited for animal activists. A suggestion was made to adjust the title of the first graph to better target pet owners or insurance seekers.
+- <b>Is there anything you find surprising or confusing?:</b> The factors listed in the table were found confusing and there was a general sense of uncertainty about the metrics used for ranking countries.
+- <b>Is there anything you would change or do differently?:</b> There was a suggestion to show the top 10 countries instead of 20 to make the chart more concise. Another recommendation was to use color highlighting to differentiate countries based on their assigned grade for better clarity.
+- <b>Overall, do you find this easy to read?:</b> Everyone agreed that the revised version was easier to read compared to the original visualization. They appreciated the use of the chart which showed topmost and bottom-most countries and the division into two parts, which helped with readability and targetting the suited audience.
 
 ### What I learned:
-The feedback highlighted a few key areas for improvement in my redesign. Grouping related factors together could help reduce the table's size, making it easier for viewers to interpret the data. The suggestion to use gradient colors aligns with the need for clearer visual cues that indicate the severity of scores. Additionally, adjusting the title to better target the right audience could increase engagement, especially among pet owners or insurance seekers rather than animal activists. The feedback on confusion regarding the factors also points to the need for clearer explanations or a key that ties the factors to the rankings in a more intuitive way.
+The feedback highlighted key areas for improvement in my redesign. Grouping related factors together or displaying only pet-relevant ones could help reduce the table's size, making it easier to interpret. Additionally, adjusting the title to better target pet owners or insurance seekers—rather than animal activists—could increase engagement. While the revised table was a visual improvement over the original, it still felt more relevant to activists than to pet owners. The grading system created confusion in the reader's mind due to lack of explanation.
 
 ## Step five: build the solution
 
-Final Solution:
+For my final redesign of the Animal Rights Index visualization, I focused on simplifying the layout to enhance readability and clarity while keeping only the most relevant data. Based on user feedback, I made the following changes:
 
-<div class='tableauPlaceholder' id='viz1739477074826' style='position: relative'><noscript><a href='#'><img alt='Global Animal Rights Index: A Pet Parent’s Perspective ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;AnimalWelfareIndex_MakeoverMonday&#47;GlobalAnimalRightsIndexAPetParentsPerspective&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='AnimalWelfareIndex_MakeoverMonday&#47;GlobalAnimalRightsIndexAPetParentsPerspective' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;An&#47;AnimalWelfareIndex_MakeoverMonday&#47;GlobalAnimalRightsIndexAPetParentsPerspective&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1739477074826');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1366px';vizElement.style.height='1095px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1366px';vizElement.style.height='1095px';} else { vizElement.style.width='100%';vizElement.style.height='1877px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+- <b>Kept only the top 10 and bottom 10 countries:</b> Instead of displaying a long table with all countries, I split the rankings into two sections—one for the top 10 and another for the bottom 10 countries based on the Animal Rights Index. This change made the data easier to digest and helped viewers focus on the most relevant rankings without feeling overwhelmed. I also refined the chart titles to better suit the target audience.
+- <b>Removed the heatmap:</b> Feedback indicated that the visualization still felt geared toward animal activists and had too much information. To shift the focus, I replaced the heatmap with a simpler text display, showing only the relevant factors for pet parents alongside the selected country's rank and index score. I also added a filter, allowing users to select any country and view its key metrics in a straightforward format. This approach eliminated the need for a complex table, making it easier to interpret the data at a glance.
+- <b>Removed the grades:</b> Since there was no clear explanation of how the grades were calculated, they contributed more to confusion than clarity. Removing them streamlined the visualization and kept the focus on meaningful insights.
+- <b>Simplified titles:</b> Based on feedback, I revised the titles—not just for the charts but for the entire dashboard—to better align with the intended audience. This ensured the visualization was more relevant to pet owners and others seeking practical insights rather than animal rights activism.
 
-For my final redesign of the Animal Rights Index visualization, I focused on simplifying the layout to improve readability and clarity. After gathering user feedback, I decided to:
+### Process Summary: Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience.
 
-Split the Data into Two Sections: Instead of presenting a long table with all the countries, I separated the rankings into two sections: the top 10 and the bottom 10 countries. This change aimed to make the data easier to digest and allowed viewers to focus on the most important countries in the rankings without being overwhelmed by too much information.
-
-Use a Heatmap: To improve visual clarity, I replaced the mixed icons and colors with a heatmap. This makes it easier for viewers to immediately see which countries perform better or worse in terms of animal rights protection. The heatmap uses gradient colors that correspond to the ranking scores, allowing for an intuitive understanding of the data at a glance.
-
-Clarify the Factors and Scores: I grouped related factors in the table and provided clear explanations of how each factor contributes to the overall score. This helped reduce confusion about the metrics being used and made the rankings more transparent.
-
-Simplified Titles: Based on feedback, I adjusted the titles for both charts to better align with the intended audience, especially pet owners and insurance seekers. This change was made to ensure that the visualization was more relevant to the right group of users.
-
-Process Summary:
-
-The process of redesigning this visualization involved first reviewing the original layout and identifying its weaknesses, which included an overwhelming table format, confusing icons, and a lack of clarity regarding the scoring methodology. I then proceeded to create wireframes that broke the content into more digestible parts and used a heatmap to represent the data more effectively.
-
-Next, I conducted interviews with two individuals to gather user feedback. I specifically focused on whether the changes improved readability and if the data presented was clear. Their input highlighted the need for grouping related factors and making the title more specific to the audience, which were incorporated into the final solution.
-
-Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience.
-
-Final Redesign:
-
+### Final Redesign: 
 Below is the final redesigned version of the Animal Rights Index visualization:
+<div align="center">
+  <img src="Top 10 and 20.png" width="500">
+</div>
 
-Documentation and Wireframes:
-
-The wireframes and detailed redesign process, along with the user feedback, have been documented in the attached files, as required for submission. This includes:
-
-A screenshot of the original data visualization
-A detailed explanation of my design choices and changes
-Wireframes showing the layout before and after the redesign
-A summary of user feedback and how it influenced the final design
+### Original Design:
+<div align="center">
+  <img src="Top 10 and 20.png" width="500" alt="Courtesy: The Swiftest">
+</div>
 
 ## References
 - [https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can](https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can)
+- 
 
 ## AI acknowledgements
 
