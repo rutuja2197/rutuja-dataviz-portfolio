@@ -26,7 +26,10 @@ For improvement, I recommend using a bar graph to display the top 20 and bottom 
 
 ## Step three: Sketch a solution
 
-
+<div align="center">
+  <img src="Top 10 and 20.png" width="500">
+  <img src="Heatmap.png" width="200">
+</div>
 
 ## Step four: Test the solution
 
