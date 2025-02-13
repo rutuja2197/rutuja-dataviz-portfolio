@@ -28,7 +28,7 @@ For improvement, I recommend using a bar graph to display the top 20 and bottom 
 
 <div align="center">
   <img src="Top 10 and 20.png" width="500">
-  <img src="Heatmap.png" width="200">
+  <img src="Heatmap.png" width="600">
 </div>
 
 ## Step four: Test the solution
@@ -57,7 +57,38 @@ The feedback highlighted a few key areas for improvement in my redesign. Groupin
 
 ## Step five: build the solution
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+Final Solution:
+
+For my final redesign of the Animal Rights Index visualization, I focused on simplifying the layout to improve readability and clarity. After gathering user feedback, I decided to:
+
+Split the Data into Two Sections: Instead of presenting a long table with all the countries, I separated the rankings into two sections: the top 10 and the bottom 10 countries. This change aimed to make the data easier to digest and allowed viewers to focus on the most important countries in the rankings without being overwhelmed by too much information.
+
+Use a Heatmap: To improve visual clarity, I replaced the mixed icons and colors with a heatmap. This makes it easier for viewers to immediately see which countries perform better or worse in terms of animal rights protection. The heatmap uses gradient colors that correspond to the ranking scores, allowing for an intuitive understanding of the data at a glance.
+
+Clarify the Factors and Scores: I grouped related factors in the table and provided clear explanations of how each factor contributes to the overall score. This helped reduce confusion about the metrics being used and made the rankings more transparent.
+
+Simplified Titles: Based on feedback, I adjusted the titles for both charts to better align with the intended audience, especially pet owners and insurance seekers. This change was made to ensure that the visualization was more relevant to the right group of users.
+
+Process Summary:
+
+The process of redesigning this visualization involved first reviewing the original layout and identifying its weaknesses, which included an overwhelming table format, confusing icons, and a lack of clarity regarding the scoring methodology. I then proceeded to create wireframes that broke the content into more digestible parts and used a heatmap to represent the data more effectively.
+
+Next, I conducted interviews with two individuals to gather user feedback. I specifically focused on whether the changes improved readability and if the data presented was clear. Their input highlighted the need for grouping related factors and making the title more specific to the audience, which were incorporated into the final solution.
+
+Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience.
+
+Final Redesign:
+
+Below is the final redesigned version of the Animal Rights Index visualization:
+
+Documentation and Wireframes:
+
+The wireframes and detailed redesign process, along with the user feedback, have been documented in the attached files, as required for submission. This includes:
+
+A screenshot of the original data visualization
+A detailed explanation of my design choices and changes
+Wireframes showing the layout before and after the redesign
+A summary of user feedback and how it influenced the final design
 
 ## References
 - [https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can](https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can)
