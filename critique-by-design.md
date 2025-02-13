@@ -27,13 +27,13 @@ For improvement, I recommended using a bar graph to display the top 20 and botto
 ## Step three: Sketch a solution
 
 <div align="center">
-  <img src="Top 10 and 20.png" width="500">
-  <img src="Heatmap.png" width="900">
+  <img src="Top 10 & Bottom Charts.png" width="500">
+  <img src="HeatMap (2).png" width="900">
 </div>
 
 ## Step four: Test the solution
 
-The focus was to understand how the visual works for different viewers and what changes could be made to improve clarity, usefulness, and engagement. I asked the participants to evaluate both the charts separately and together to see if any patterns or insights emerged.<br>
+The focus was to understand how the visual works for different viewers and what changes could be made to improve clarity, usefulness, and engagement. I asked the participants in to evaluate both the charts separately and together to see if any patterns or insights emerged.<br>
 
 ### Questions to ask:
 
@@ -50,7 +50,7 @@ These were the main questions I aimed to target, and I asked them for both the c
 - <b>Who do you think this is intended for?:</b> While splitting the chart into two made it clearer, everyone still felt the visualization was more suited for animal activists. A suggestion was made to adjust the title of the first graph to better target pet owners or insurance seekers.
 - <b>Is there anything you find surprising or confusing?:</b> The factors listed in the table were found confusing and there was a general sense of uncertainty about the metrics used for ranking countries.
 - <b>Is there anything you would change or do differently?:</b> There was a suggestion to show the top 10 countries instead of 20 to make the chart more concise. Another recommendation was to use color highlighting to differentiate countries based on their assigned grade for better clarity.
-- <b>Overall, do you find this easy to read?:</b> Everyone agreed that the revised version was easier to read compared to the original visualization. They appreciated the use of the chart which showed topmost and bottom-most countries and the division into two parts, which helped with readability and targetting the suited audience.
+- <b>Overall, do you find this easy to read?:</b>  Everyone agreed that the revised version was easier to read compared to the original visualization. They appreciated the use of the chart, which showed the topmost and bottom-most countries, and the division into two parts, which helped with readability and targeting the suited audience. The original version had a lot of unnecessary icons that didn’t make sense and only added confusion. One person even mentioned they would skip reading after the first country because of the overwhelming amount of data. This redesigned version is much easier to read and more focused.
 
 ### What I learned:
 The feedback highlighted key areas for improvement in my redesign. Grouping related factors together or displaying only pet-relevant ones could help reduce the table's size, making it easier to interpret. Additionally, adjusting the title to better target pet owners or insurance seekers—rather than animal activists—could increase engagement. While the revised table was a visual improvement over the original, it still felt more relevant to activists than to pet owners. The grading system created confusion in the reader's mind due to lack of explanation.
@@ -62,19 +62,23 @@ For my final redesign of the Animal Rights Index visualization, I focused on sim
 - <b>Kept only the top 10 and bottom 10 countries:</b> Instead of displaying a long table with all countries, I split the rankings into two sections—one for the top 10 and another for the bottom 10 countries based on the Animal Rights Index. This change made the data easier to digest and helped viewers focus on the most relevant rankings without feeling overwhelmed. I also refined the chart titles to better suit the target audience.
 - <b>Removed the heatmap:</b> Feedback indicated that the visualization still felt geared toward animal activists and had too much information. To shift the focus, I replaced the heatmap with a simpler text display, showing only the relevant factors for pet parents alongside the selected country's rank and index score. I also added a filter, allowing users to select any country and view its key metrics in a straightforward format. This approach eliminated the need for a complex table, making it easier to interpret the data at a glance.
 - <b>Removed the grades:</b> Since there was no clear explanation of how the grades were calculated, they contributed more to confusion than clarity. Removing them streamlined the visualization and kept the focus on meaningful insights.
-- <b>Simplified titles:</b> Based on feedback, I revised the titles—not just for the charts but for the entire dashboard—to better align with the intended audience. This ensured the visualization was more relevant to pet owners and others seeking practical insights rather than animal rights activism.
+- <b>Simplified titles:</b> Based on feedback, I revised the titles — not just for the charts but for the entire dashboard—to better align with the intended audience. This ensured the visualization was more relevant to pet owners and others seeking practical insights rather than animal rights activism.
 
-### Process Summary: Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience.
+### Process Summary: 
+Overall, this redesign process reinforced the importance of clarity, simplicity, and ensuring the visualization speaks directly to the needs of its intended audience.
 
 ### Final Redesign: 
 Below is the final redesigned version of the Animal Rights Index visualization:
+
 <div align="center">
-  <img src="Top 10 and 20.png" width="500">
+  <img src="Final Redesign.png" width="700">
 </div>
 
 ### Original Design:
+
 <div align="center">
-  <img src="Top 10 and 20.png" width="500" alt="Courtesy: The Swiftest">
+  <img src="Original Design.png" width="700" alt="Courtesy: The Swiftest">
+  <p>Courtesy: <i>The Swiftest</i></p>
 </div>
 
 ## References
