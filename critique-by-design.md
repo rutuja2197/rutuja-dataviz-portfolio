@@ -72,6 +72,7 @@ Below is the final redesigned version of the Animal Rights Index visualization:
 
 <div align="center">
   <img src="Final Redesign.png" width="700">
+  <p><a href="https://public.tableau.com/views/AnimalWelfareIndex_MakeoverMonday/GlobalAnimalRightsIndexAPetParentsPerspective?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">Check out on Tableau Public!</a></p>
 </div>
 
 ### Original Design:
@@ -84,9 +85,11 @@ Below is the original version of the Animal Rights Index visualization:
 
 ## References
 - [https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can](https://theswiftest.com/animal-rights-index/#:~:text=Animal%20rights%20laws%20vary%20greatly,cruelty%20any%20way%20they%20can)
-- 
+- [https://makeovermonday.co.uk/](https://makeovermonday.co.uk/)
+- [https://public.tableau.com/views/AnimalWelfareIndex_MakeoverMonday/GlobalAnimalRightsIndexAPetParentsPerspective?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/AnimalWelfareIndex_MakeoverMonday/GlobalAnimalRightsIndexAPetParentsPerspective?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [https://community.tableau.com/s/explore-forums](https://community.tableau.com/s/explore-forums)
 
 ## AI acknowledgements
-
+I acknowledge the use of AI in the construction of the paragraphs, which helped streamline the process and enhance the clarity of my work.
 
 
