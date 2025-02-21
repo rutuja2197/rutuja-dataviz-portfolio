@@ -88,15 +88,13 @@ In addition to the above changes, I will replace the current Tableau snippets wi
 # Color Palette
 I used Canva to generate a refined color palette, ensuring a visually cohesive and engaging design.
 
-<div align="center">
-  <img src="Color_palette.png" width="500">
+<div align="left">
+  <img src="Color_palette.png" width="250">
 </div>
 
-<div align="center">
+<div align="left">
   <p><em>Color Palette</em></p>
 </div>
-
-Text here!
 
 ## References
 - [Dovetail. (2023, December 14). New Research Finds Online Consumers Are Falling Victim to Dark Patterns. Dovetail.com; Dovetail. https://dovetail.com/product-development/new-research-finds-online-consumers-are-falling-victim-to-dark-patterns/](https://dovetail.com/product-development/new-research-finds-online-consumers-are-falling-victim-to-dark-patterns/)
