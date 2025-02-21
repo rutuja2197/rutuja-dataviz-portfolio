@@ -52,28 +52,26 @@ The following findings are based on user interviews conducted to gather feedback
 | **Is the overall theme of the page too dark or uninviting for the target audience?** | "I like the dark theme. It feels sleek and modern."                 | "The dark theme works for me. It feels suitable for the topic."    | The dark theme was liked by this participant as well.           |
 | **How does the image that I used on the title page (A photo of a black and white shopping cart) feel to users? Is it too dull?** | "Is it a shopping cart? Honestly, I feel it doesn’t really matter." | Found the image unclear but didn't think it was a big issue. | Suggested reducing the black overlay on the image to improve clarity, though they felt it wasn’t a major problem. |
 | **Do users like the overall flow of the story and its progression?**   | Felt the story flow was well and easy to follow.                | The story’s progression felt intuitive and engaging for this participant as well.    | Found the flow clear and well-structured.           |
-| **Do these visualizations feel appropriate for the data, or would the users prefer alternative visualizations for better clarity or engagement?** | The first visualization was well-received, but the second one could be simplified to show just the top 4 instead of 8. | The bar chart was preferred over the pie chart for the first visualization and also felt showing only the top 4/5 would improve readability. |
+| **Do these visualizations feel appropriate for the data, or would the users prefer alternative visualizations for better clarity or engagement?** | The first visualization was well-received, but the second one could be simplified to show just the top 4 instead of 8. | Suggested replacing the pie chart with a bar graph, as the pie chart was hard to read, but liked the second visualization. |The bar chart was preferred over the pie chart for the first visualization and also felt showing only the top 4/5 would improve readability. | 
 | **Does the scrollmation feature (where users interact with a quiz or view the different types of dark patterns) resonate with the users?** | The scrollmation feature was well-liked by this participant. | Liked the scrollmation, especially the quiz part, and found it engaging.     | Found it a fun addition to the page.            |
-| **Are users comfortable with this interactive design element? Do they find it engaging and effective in delivering key insights?** | This participant found the interactive design element effective and engaging. | "It works well, but adding some stats for each type of dark pattern would make it more informative." | "I’m comfortable with it and feel like it delivers key information effectively." |
+| **Are users comfortable with this interactive design element? Do they find it engaging and effective in delivering key insights?** | Found the interactive design element effective and engaging, although suggested reducing the types of dark patterns explained to 4-5 instead of 10 | "It works well, but adding some stats for each type of dark pattern would make it more informative." | "I’m comfortable with it and feel like it delivers key information effectively." |
 | **Do users find the section about precautionary steps too plain or lackluster?** | Felt the section was a bit too plain and suggested adding icons to make it more visually interesting. | Didn’t find it too plain and thought it was easier to read without additional elements. | "It could use some images to break it up and make it more engaging." |
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+# Identified changes for Part III 
 
-Text here!
+Based on the insights gathered from user interviews, the following synthesis outlines key observations and the anticipated changes for Part III of the project. These adjustments aim to enhance the visual appeal, interactivity, and clarity of the story.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| **Research synthesis**                                               | **Anticipated changes for Part III**                                                                                       |
+|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Users liked the dark theme and found it engaging.                   | Keep the dark theme, as it resonates well with the audience.                                                              |
+| The title page image (shopping cart) was unclear for some users. | Consider changing the image or making it clearer                                      |
+| The overall flow of the story was well-received.                     | No major changes needed to the flow, perhaps add a section to show the statistical effect of different dark patterns                                              |
+| Participants felt the pie chart was hard to read and preferred bar charts for the first visualization. | Replace the pie chart with a bar chart for better clarity, and reduce the categories shown to the top 5 for readability.    |
+| The scrollmation feature was appreciated for its interactivity.     | Maintain the scrollmation feature, but consider adding more stats for each type of dark pattern to enhance engagement. Also, only explain the most relevant types of dark patterns, perhaps 5 instead of 10.     |
+| The precautionary steps section was perceived as plain by some users. | Add relevant icons or images to make the precautionary steps section more visually engaging and less plain.               |                                                           
 
-> ...include any final thoughts you have here. 
-
-Text here!
+In addition to the above changes, I will replace the current Tableau snippets with embedded links to provide a more interactive experience for users. This will allow them to explore the data in greater detail, improving engagement and clarity. These refinements, based on user feedback, will help create a more visually appealing and user-friendly final presentation. 
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
@@ -84,5 +82,4 @@ Text here!
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
