@@ -7,7 +7,7 @@ In this section, I have developed a visual walkthrough of the story, incorporati
 
 Link to Shorthand Draft: [Click here to view the draft story](https://preview.shorthand.com/7YCQd0mqP6znayqp)
 
-## Tableau Visualizations Snippets
+## Tableau Visualizations
 Below are two Tableau visualizations I’ve created, which I have included in my Shorthand story. These visualizations highlight the core aspects of my data narrative, offering insights that will guide the audience through the story.
 
 ### Visualization 1: 
