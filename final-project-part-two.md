@@ -10,11 +10,23 @@ Link to Shorthand Draft: [Click here to view the draft story](https://preview.sh
 ## Tableau Visualizations Snippets
 Below are two Tableau visualizations I’ve created, which I have included in my Shorthand story. These visualizations highlight the core aspects of my data narrative, offering insights that will guide the audience through the story.
 
-1. Visualization 1: [Share of Dark Patterns by Industry](https://public.tableau.com/views/DarkPatternsacrossIndustries/ShareofDarkPatternsbyIndustry?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### Visualization 1: 
+<b>Previous version:</b>
+A pie chart illustrating the distribution of dark patterns across different industries, highlighting which sectors employ these deceptive tactics most frequently.
 
+<b>Updated version:</b>
+Modified this to a bar graph.
 
+[Share of Dark Patterns by Industry](https://public.tableau.com/views/DarkPatternsacrossIndustries/ShareofDarkPatternsbyIndustry?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-2. Visualization 2: [Top 5 Dark Patterns observed in Ecommerce](https://public.tableau.com/views/Ecommerce_Darkpatterns/Top5DarkPatternsobservedinEcommerce?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### Visualization 2: 
+<b>Previous version:</b>
+A bar graph comparing the prevalence of different dark patterns observed in e-commerce, showing their occurrence percentages.
+
+<b>Updated version:</b>
+A refined version highlighting only the top five most commonly observed dark patterns in e-commerce for clearer insights.
+
+[Top 5 Dark Patterns observed in Ecommerce](https://public.tableau.com/views/Ecommerce_Darkpatterns/Top5DarkPatternsobservedinEcommerce?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # User research 
 
@@ -30,8 +42,8 @@ The goal of my user research was to assess different aspects of my story’s vis
 
 ### Data visualizations:
 - Feedback on the two visualizations-
-  - A pie chart showing market share distribution among industries for Dark Patterns.
-  - A bar graph that compares online shopping trends across different sectors.
+  - A pie chart showing market share distribution of Dark Patterns among different industries.
+  - A bar graph illustrating the prevalence of different dark patterns observed in e-commerce, comparing their occurrence percentages/occurences.
 - Do these visualizations feel appropriate for the data, or would the users prefer alternative visualizations for better clarity or engagement?
 
 ### Scrollmation and Interactive Elements
@@ -77,7 +89,7 @@ In addition to the above changes, I will replace the current Tableau snippets wi
 I used Canva to generate a refined color palette, ensuring a visually cohesive and engaging design.
 
 <div align="center">
-  <img src="Storyboard.png" width="500">
+  <img src="Color_palette.png" width="500">
 </div>
 
 <div align="center">
