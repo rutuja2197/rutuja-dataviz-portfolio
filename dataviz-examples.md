@@ -85,7 +85,7 @@ The visualization shows the distribution of dark patterns across different indus
   </div>
 
 ### World Indicators Data
-
+The Tableau World Indicators data set provides key metrics for various countries, such as GDP, population, and life expectancy, offering insights into global economic and social trends. It is useful for comparing country-level performance across a range of indicators, allowing for easy visualization of global patterns and disparities.
 [Link](https://public.tableau.com/views/WorldIndicatorsData_17379986557710/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <div class='tableauPlaceholder' id='viz1740792981889' style='position: relative'>
