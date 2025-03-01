@@ -5,7 +5,7 @@
 [Hooked, Tricked & Clicker: The Dark Patterns of Online Shopping](https://carnegiemellon.shorthandstories.com/dark_patterns_rutujasd/index.html)
 
 # Changes made since Part II
-After completing Part II, I refined several aspects of my data story to enhance clarity, engagement, and overall impact based on feedback and further analysis:
+After completing Part II, I refined a few aspects of my data story to enhance clarity, engagement, and overall impact based on feedback and further analysis:
 
 ### Improved Visualizations
 Replaced the pie chart with a bar graph to illustrate the distribution of dark patterns across industries. This change improves readability and allows for easier comparison, addressing user feedback that bar graphs provide better clarity.
