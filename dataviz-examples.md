@@ -6,6 +6,8 @@ In this section, you'll find a selection of data visualizations I’ve created t
 Below, I’ve included brief explanations for each visualization, along with citations and references to the data sources used. These examples demonstrate my ability to translate raw data into actionable insights, making them relevant and understandable for a variety of audiences.
 
 ### MakeoverMonday Visualization
+This is a critique of the Animal Rights Index 2023 visualization from MakeoverMonday, evaluating its effectiveness in presenting global variations in animal welfare.
+
 <div class='tableauPlaceholder' id='viz1740792622556' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -29,6 +31,8 @@ Below, I’ve included brief explanations for each visualization, along with cit
   </object></div>                
 
 ### Debt-to-GDP Ratios
+The visualization shows the top 10 countries with the highest Debt-to-GDP ratios. This key indicator reflects government financial sustainability, measuring general government debt as a percentage of GDP.
+
 <div class='tableauPlaceholder' id='viz1740792802882' style='position: relative'>
   <noscript>
     <a href='#'>
@@ -51,7 +55,9 @@ Below, I’ve included brief explanations for each visualization, along with cit
     <param name='language' value='en-US' />
   </object></div>                
 
-  ### Dark Patterns across Industries
+### Dark Patterns across Industries
+The visualization shows the distribution of dark patterns across different industries, specifically highlighting the Shopping/Ecommerce sector.
+  
   <div class='tableauPlaceholder' id='viz1740792889904' style='position: relative'>
     <noscript>
       <a href='#'>
