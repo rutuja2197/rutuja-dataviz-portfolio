@@ -7,6 +7,7 @@ Below, I’ve included brief explanations for each visualization, along with cit
 
 ### MakeoverMonday Visualization
 This is a critique of the Animal Rights Index 2023 visualization from MakeoverMonday, evaluating its effectiveness in presenting global variations in animal welfare.
+[Link](https://public.tableau.com/views/AnimalWelfareIndex_MakeoverMonday/GlobalAnimalRightsIndexAPetParentsPerspective?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <div class='tableauPlaceholder' id='viz1740792622556' style='position: relative'>
   <noscript>
@@ -32,6 +33,7 @@ This is a critique of the Animal Rights Index 2023 visualization from MakeoverMo
 
 ### Debt-to-GDP Ratios
 The visualization shows the top 10 countries with the highest Debt-to-GDP ratios. This key indicator reflects government financial sustainability, measuring general government debt as a percentage of GDP.
+[Link](https://public.tableau.com/views/Debt-to-GDPratiosTop10/Debt-to-GDPratiosTop10CountrieswithHighestRatio2008-2018?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <div class='tableauPlaceholder' id='viz1740792802882' style='position: relative'>
   <noscript>
@@ -57,6 +59,7 @@ The visualization shows the top 10 countries with the highest Debt-to-GDP ratios
 
 ### Dark Patterns across Industries
 The visualization shows the distribution of dark patterns across different industries, specifically highlighting the Shopping/Ecommerce sector.
+[Link](https://public.tableau.com/views/DarkPatternsacrossIndustries/ShareofDarkPatternsbyIndustry?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
   
   <div class='tableauPlaceholder' id='viz1740792889904' style='position: relative'>
     <noscript>
@@ -81,7 +84,10 @@ The visualization shows the distribution of dark patterns across different indus
     </object>
   </div>
 
-### Dark Patterns across Industries
+### World Indicators Data
+
+[Link](https://public.tableau.com/views/WorldIndicatorsData_17379986557710/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <div class='tableauPlaceholder' id='viz1740792981889' style='position: relative'>
   <noscript>
     <a href='#'>
