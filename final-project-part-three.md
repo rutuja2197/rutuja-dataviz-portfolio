@@ -2,7 +2,7 @@
 
 # The final data story
 
-[Hooked, Tricked & Clicker: The Dark Patterns of Online Shopping](https://carnegiemellon.shorthandstories.com/dark_patterns_rutujasd/index.html)
+[Hooked, Tricked & Clicked: The Dark Patterns of Online Shopping](https://carnegiemellon.shorthandstories.com/dark_patterns_rutujasd/index.html)
 
 # Changes made since Part II
 After completing Part II, I refined a few aspects of my data story to enhance clarity, engagement, and overall impact based on feedback and further analysis:
