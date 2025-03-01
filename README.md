@@ -16,22 +16,19 @@ I aim to build a strong foundation in designing compelling and effective data vi
 
 # Portfolio
 ## Data Critiques  
-- Critique 1: Good Charts Critique Method  
+In this critique, I analyzed a visualization from the MakeoverMonday website, evaluating its design and effectiveness. I then created my own improved version using Tableau, applying design principles to enhance clarity and impact.
 
 ## Data Visualization  
-- Assignment 1: Controlling Color
+This section showcases various visualizations I’ve worked on, including multiple Tableau projects. These visualizations demonstrate my ability to present data clearly and effectively, emphasizing best practices in design and interactivity.
 
 ## Final Project: Part one 
-- Final Project: [Project Title Placeholder]  
+Part One marks the beginning of my final project on dark patterns in UX. I focused on identifying key dark patterns in e-commerce and started to develop a data-driven narrative to educate users about these deceptive practices.
 
 ## Final Project: Part two 
-- Final Project: [Project Title Placeholder]
+In Part Two, I continued building on the foundation laid in Part One, refining the narrative and adding more detailed examples of dark patterns. This phase involved further user research to inform the design and ensure relevance to the target audience.
 
 ## Final Project: Part three 
-- Final Project: [Project Title Placeholder] 
+Part Three is the final iteration of my project, where I integrated feedback and enhanced the design for maximum engagement. I refined visualizations, added interactive elements, and included actionable advice to help users avoid falling victim to dark patterns in online shopping.
 
-# References
-
-# AI acknowledgements
 
 
