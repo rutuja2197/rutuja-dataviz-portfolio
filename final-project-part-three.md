@@ -48,10 +48,19 @@ Structuring the story in a way that smoothly transitioned from explaining dark p
 These design choices collectively strengthened the effectiveness of the data story, making it more immersive, visually appealing, and user-friendly.
 
 ## References
-
+- [Dovetail. (2023, December 14). New Research Finds Online Consumers Are Falling Victim to Dark Patterns. Dovetail.com; Dovetail. https://dovetail.com/product-development/new-research-finds-online-consumers-are-falling-victim-to-dark-patterns/](https://dovetail.com/product-development/new-research-finds-online-consumers-are-falling-victim-to-dark-patterns/)
+- [What are Dark Patterns? (2024, August). Koleyjessen.com. https://www.koleyjessen.com/insights/publications/what-are-dark-patterns](https://www.koleyjessen.com/insights/publications/what-are-dark-patterns)
+- [What are Dark Patterns? How UI Influences Consent and Compliance. (2023, January 23). CHEQ  the Go-To-Market Security Platform. https://cheq.ai/blog/what-are-dark-patterns/](https://cheq.ai/blog/what-are-dark-patterns/)
+- [Dreger, B. (2024, December 27). What are Dark Patterns? Examples of Deceptive Design in UX  Scalable Path. Scalable Path. https://www.scalablepath.com/ui-ux-design/dark-pattern-examples](https://www.scalablepath.com/ui-ux-design/dark-pattern-examples)
+- [Geronimo, L. D., Braz, L., Enrico Fregnan, Palomba, F., & Bacchelli, A. (2020). UI Dark Patterns and Where to Find Them: A Study on Mobile Applications and User Perception. Zenodo (CERN European Organization for Nuclear Research). https://doi.org/10.5281/zenodo.3601501](https://zenodo.org/records/3601501)
+- [Debnath, R. (2024). Dark Pattern Dataset. Kaggle.com. https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv](https://www.kaggle.com/datasets/rohitdnath/dark-pattern-dataset?resource=download&select=dark_pattern_classifications.csv)
+- [https://uxdesign.cc/dark-patterns-in-ux-efa007166249](https://uxdesign.cc/dark-patterns-in-ux-efa007166249)
+- [https://www.victoriassecret.com/us/vs/beauty-catalog/5000006635?brand=vs&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&limit=180&orderBy=REC&priceType=all&productId=39e72f7a-05da-4f8c-9e42-94334d55da6b&stackId=39b628eb-2fe8-4509-8988-f2c41bb4a926&genericId=11199234&choice=3714&product_position=3&stack_position=1&stack_count=1&dataSource=manual-collection&categoryTwo=Limited%20Time%20Offer](https://www.victoriassecret.com/us/vs/beauty-catalog/5000006635?brand=vs&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&limit=180&orderBy=REC&priceType=all&productId=39e72f7a-05da-4f8c-9e42-94334d55da6b&stackId=39b628eb-2fe8-4509-8988-f2c41bb4a926&genericId=11199234&choice=3714&product_position=3&stack_position=1&stack_count=1&dataSource=manual-collection&categoryTwo=Limited%20Time%20Offer)
+- [https://www.zara.com/us/en/satin-effect-midi-skirt-p02011399.html?v1=439328910&v2=2419737](https://www.zara.com/us/en/satin-effect-midi-skirt-p02011399.html?v1=439328910&v2=2419737)
+- [https://www.kohls.com/checkout/shopping_cart.jsp](https://www.kohls.com/checkout/shopping_cart.jsp)
 
 ## AI acknowledgements
-
+I acknowledge the use of AI for grammar checking and refining the clarity of the narrative.
 
 # Final thoughts
 Working on this project has been an eye-opening experience in data storytelling and user-centered design. One of the most rewarding parts was seeing how raw data could be shaped into a meaningful and engaging narrative for the audience.
