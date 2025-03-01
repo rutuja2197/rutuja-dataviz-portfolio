@@ -16,23 +16,23 @@ I aim to build a strong foundation in designing compelling and effective data vi
 
 # Portfolio
 ## Data Critiques  
-This section includes a critique I worked on. I analyzed a visualization from the MakeoverMonday website, evaluating its design and effectiveness. I then created my own improved version using Tableau, applying design principles to enhance clarity and impact.
+This section includes a critique I worked on. I analyzed a visualization from the MakeoverMonday website, evaluating its design and effectiveness. I then created my own improved version using Tableau, applying design principles to enhance clarity and impact. <br>
 [Critique by Design: MakeoverMonday](https://rutuja2197.github.io/rutuja-dataviz-portfolio/critique-by-design.html)
 
 ## Data Visualization  
-This section showcases various visualizations I’ve worked on, including multiple Tableau projects. These visualizations demonstrate my ability to present data clearly and effectively, emphasizing best practices in design and interactivity.
+This section showcases various visualizations I’ve worked on, including multiple Tableau projects. These visualizations demonstrate my ability to present data clearly and effectively, emphasizing best practices in design and interactivity.<br>
 [Data visualization examples](https://rutuja2197.github.io/rutuja-dataviz-portfolio/dataviz-examples.html)
 
 ## Final Project: Part one 
-Part One marks the beginning of my final project on dark patterns in UX. I focused on identifying key dark patterns in e-commerce and started to develop a data-driven narrative to educate users about these deceptive practices.
+Part One marks the beginning of my final project on dark patterns in UX. I focused on identifying key dark patterns in e-commerce and started to develop a data-driven narrative to educate users about these deceptive practices.<br>
 [Project Part 1](https://rutuja2197.github.io/rutuja-dataviz-portfolio/final-project-part-one.html)
 
 ## Final Project: Part two 
-In Part Two, I continued building on the foundation laid in Part One, refining the narrative and adding more detailed examples of dark patterns. This phase involved further user research to inform the design and ensure relevance to the target audience.
+In Part Two, I continued building on the foundation laid in Part One, refining the narrative and adding more detailed examples of dark patterns. This phase involved further user research to inform the design and ensure relevance to the target audience.<br>
 [Project Part 2](https://rutuja2197.github.io/rutuja-dataviz-portfolio/final-project-part-two.html)
 
 ## Final Project: Part three 
-Part Three is the final iteration of my project, where I integrated feedback and enhanced the design for maximum engagement. I refined visualizations, added interactive elements, and included actionable advice to help users avoid falling victim to dark patterns in online shopping.
+Part Three is the final iteration of my project, where I integrated feedback and enhanced the design for maximum engagement. I refined visualizations, added interactive elements, and included actionable advice to help users avoid falling victim to dark patterns in online shopping. <br>
 [Project Part 3](https://rutuja2197.github.io/rutuja-dataviz-portfolio/final-project-part-three.html)
 
 
