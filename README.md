@@ -16,7 +16,7 @@ I aim to build a strong foundation in designing compelling and effective data vi
 
 # Portfolio
 ## Data Critiques  
-In this critique, I analyzed a visualization from the MakeoverMonday website, evaluating its design and effectiveness. I then created my own improved version using Tableau, applying design principles to enhance clarity and impact.
+This section includes a critique I worked on. I analyzed a visualization from the MakeoverMonday website, evaluating its design and effectiveness. I then created my own improved version using Tableau, applying design principles to enhance clarity and impact.
 
 ## Data Visualization  
 This section showcases various visualizations I’ve worked on, including multiple Tableau projects. These visualizations demonstrate my ability to present data clearly and effectively, emphasizing best practices in design and interactivity.
